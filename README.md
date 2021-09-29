@@ -13,7 +13,7 @@ Este conjunto de datos está disponible en el Data Asset Exchange (DAX) de IBM e
 Supervisar e informar el rendimiento de los vuelos de las aerolíneas nacionales de EE.UU y de este modo analizar el desempeño de la aerolínea informante para mejorar la confiabilidad de la lucha, mejorando así la confianza del cliente en la aerolínea. La interfaz cuenta con dos pestañas desplegables iniciales para seleccionar el tipo de reporte y el año del cual se desea el reporte:
 
 ![imagen](https://user-images.githubusercontent.com/43154438/135188611-fe06e213-a53d-4258-afbf-6edc1d368841.png)
-### Imagen 1: Vista inicial de la Interfaz de Usuario
+##### Imagen 1: Vista inicial de la Interfaz de Usuario
 
 El rango de años para los que el análisis se hizo fue entre 2005 y 2020.
 
