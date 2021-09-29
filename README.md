@@ -42,7 +42,7 @@ Si se selecciona la primera opción de la pestaña desplegable y algún año se 
 -	Número de vuelos que vuelan desde cada estado utilizando Choroplet-Map (cuanto más sombreado un estado, más vuelos partieron de allí).
 -	Tiempo medio de vuelo de la aerolínea informante mediante un gráfico de líneas (Line-Chart).
 -	Número de vuelos en diferentes categorías de cancelación mediante gráfico de barras (Bar-Chart).
--	
+
 A continuación, se mostrará cada uno de estos cinco gráficos en su respectivo orden para el año 2020. Cabe aclarar que para el momento en que los datos fueron registrados, sólo habían transcurrido 3 meses del año 2020, por ende, sólo hay datos hasta el mes de marzo. A diferencia del resto de años donde se tienen datos por los 12 meses. 
 
 ![imagen](https://user-images.githubusercontent.com/43154438/135188798-f207c8c6-b46f-4610-957f-725f924f5896.png)
