@@ -68,7 +68,8 @@ Tree Map Charts can also be used to display data that can be sorted and grouped 
 
 The following is a pie-chart representing the percentage of diverted landings given the airline. Pie charts are a type of circular graph that is used to represent data in the form of proportions or percentages. The data is divided into sectors or slices, with each slice representing a portion of the total. The size of each slice is proportional to the value it represents.
 
-![image](https://user-images.githubusercontent.com/43154438/229909193-deff1ded-70fc-4c41-a39f-89dc690fb8e7.png)
+![image](https://user-images.githubusercontent.com/43154438/229913940-f2bf3dcf-1ead-4025-bdaf-b287d560ea61.png)
+
 Figure 4: pie-chart of percentage of diverted landings given the airline
 
 We can realize that there was only one flight with a diverted landing and it is from the airline YX (Midwest Express). Unlike other years where there were more diverted flights and by other airlines.
