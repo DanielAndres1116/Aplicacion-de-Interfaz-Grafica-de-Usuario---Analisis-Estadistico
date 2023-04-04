@@ -77,7 +77,8 @@ We can realize that there was only one flight with a diverted landing and it is 
 
 The next is a Choroplet map. Choropleth maps are a type of map that display data as colored regions or polygons. The data is divided into a set of predefined regions, such as states or countries, and each region is shaded or colored based on a particular data value or set of values. The colors are typically chosen to reflect a scale, such as a gradient from light to dark, or a set of discrete colors that represent different ranges of values.
 
-![image](https://user-images.githubusercontent.com/43154438/229909383-a3676fdb-d52a-4bce-9c95-4c39c8722d19.png)
+![image](https://user-images.githubusercontent.com/43154438/229914376-6111035d-1aa2-4f15-953d-333e1cbd648b.png)
+
 Figure 5: number of flights by state represented on a Choropleth Map
 
 We can realize that the States that sent the most flights are the states of Texas, California, Georgia, Illinois and North Carolina. And if we hover over each state, we can see the specific number of flights and the State of Origin abbreviation.
