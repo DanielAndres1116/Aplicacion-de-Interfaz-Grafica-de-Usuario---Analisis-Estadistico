@@ -54,7 +54,7 @@ For this first sample of interface, let’s go deep in each one of the graphs to
 
 The next is a Tree Map Chart. Tree Map charts are a type of data visualization that display hierarchical data structures as nested rectangles. Each branch of the hierarchy is represented by a colored rectangle, which is further divided into smaller rectangles to represent sub-branches. The size and color of each rectangle represent different aspects of the data, such as quantity or category.
 
-![image](https://user-images.githubusercontent.com/43154438/229908872-35724909-7d5f-42f1-888b-30243b318cfb.png)
+![image](https://user-images.githubusercontent.com/43154438/229910899-9bbddaaa-d496-418a-a8b1-b687e8f294f6.png)
 Figure 2: Count of flights by airline according to states of destination represented in Tree Map chart.
 
 Have into account that each one of the airlines can be selected by clicking in each square and we can see in detail the number of flights per state destination. Let’s see for example the first airline:
