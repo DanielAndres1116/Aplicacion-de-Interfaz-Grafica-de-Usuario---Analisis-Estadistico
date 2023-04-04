@@ -113,7 +113,8 @@ We can see how in the first month their average flight time does not exceed one 
 
 Now, let’s see the general view of the interface when in the first dropdown tab we choose the second option: ‘Yearly Airline Delay Report’ and we must also choose a year in the second dropdown tab, in this case again the year 2020.
 
-![image](https://user-images.githubusercontent.com/43154438/229910109-fb16f53d-2c20-43fe-9d97-13755bb38ca6.png)
+![image](https://user-images.githubusercontent.com/43154438/229915089-5e1afb82-a817-4e24-8b16-98f79723748e.png)
+
 Figure 9: overview of the chart layout of the second option (Annual Airline Delay Report)
 
 These Line charts have the same options and flexibilities as the line chart of the first option that reflects the average flight time per airline.
