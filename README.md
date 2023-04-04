@@ -47,7 +47,8 @@ The second report option provided by the interface is the annual delay report fo
 
 Next, we will show the arrangement of the charts in the user interface created.
 
-![image](https://user-images.githubusercontent.com/43154438/229908605-92320a54-2617-490a-a35c-d64ba94a0e57.png)
+![image](https://user-images.githubusercontent.com/43154438/229914103-e369d7ba-5391-4b11-9cae-07a69d191e51.png)
+
 Figure 1: This is a sample of what the end user interface looks like when selecting the first option in the first dropdown tab (Yearly Airline Performance Report) and some year in the second dropdown tab
 
 For this first sample of interface, let’s go deep in each one of the graphs to see what these consist on.
