@@ -105,7 +105,8 @@ Here we can see for each airline the number of flight minutes accumulated in eac
 
 But if you want to see clearly the flight time of a specific airline and not be confused with the rest, you can temporarily eliminate the others by clicking on the airlines in the list on the right of the graph as shown below:
 
-![image](https://user-images.githubusercontent.com/43154438/229909981-2d367768-fc0e-4640-a80c-e32b9ab7d432.png)
+![image](https://user-images.githubusercontent.com/43154438/229914952-612ea681-99ca-4339-83c2-49654ab38882.png)
+
 Figure 8: average monthly flight time for airline 9E (9-Air).
 
 We can see how in the first month their average flight time does not exceed one hour, while in the second month it exceeds two hours, to drop in the third month to just over an average flight hour.
