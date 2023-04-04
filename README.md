@@ -97,7 +97,7 @@ We can realize that only during the first 3 months there were flight cancellatio
 
 The following is a line-chart that represents the average monthly flight time per airline in minutes. A line chart is a type of chart that displays data as a series of points connected by straight lines. Each point represents a specific data value, and the line connecting the points represents the trend or pattern in the data. Line charts are useful for visualizing data that changes over time, such as stock prices, sales figures, or temperature readings.
 
-![image](https://user-images.githubusercontent.com/43154438/229914701-44847b51-8979-43b0-9464-71a716d91190.png)
+![image](https://user-images.githubusercontent.com/43154438/229914824-c8fc7345-6e1b-40ef-b535-54d4c4b37725.png)
 
 Figure 7: monthly average flight time by airline in minutes on a Line Chart
 
