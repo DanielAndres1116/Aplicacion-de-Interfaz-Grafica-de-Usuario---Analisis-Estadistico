@@ -42,3 +42,10 @@ The second report option provided by the interface is the annual delay report fo
 4.	The monthly average security delay by reporting airline for the given year.
 	
 5.	The monthly average late aircraft delay by reporting airline for the given year.
+
+## 1.3. Visualizations and Charts created in the project
+
+Next, we will show the arrangement of the charts in the user interface created.
+
+![image](https://user-images.githubusercontent.com/43154438/229908605-92320a54-2617-490a-a35c-d64ba94a0e57.png)
+Figure 1: This is a sample of what the end user interface looks like when selecting the first option in the first dropdown tab (Yearly Airline Performance Report) and some year in the second dropdown tab
