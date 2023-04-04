@@ -54,13 +54,14 @@ For this first sample of interface, let’s go deep in each one of the graphs to
 
 The next is a Tree Map Chart. Tree Map charts are a type of data visualization that display hierarchical data structures as nested rectangles. Each branch of the hierarchy is represented by a colored rectangle, which is further divided into smaller rectangles to represent sub-branches. The size and color of each rectangle represent different aspects of the data, such as quantity or category.
 
-![image](https://user-images.githubusercontent.com/43154438/229910899-9bbddaaa-d496-418a-a8b1-b687e8f294f6.png)
+![image](https://user-images.githubusercontent.com/43154438/229913523-4cd8a753-3343-432d-9019-ead3f16f4d22.png)
 
 Figure 2: Count of flights by airline according to states of destination represented in Tree Map chart.
 
 Have into account that each one of the airlines can be selected by clicking in each square and we can see in detail the number of flights per state destination. Let’s see for example the first airline:
 
-![image](https://user-images.githubusercontent.com/43154438/229909042-d24bb337-39c6-4596-9550-f8c3ca7e54d8.png)
+![image](https://user-images.githubusercontent.com/43154438/229913582-15cb59b1-5c40-4fc2-8e39-8ca808a19c74.png)
+
 Figure 3: state FL (Florida) and graphical representation of the number of flights received from each Airline (AA, DL, WN, etc.)
 
 Tree Map Charts can also be used to display data that can be sorted and grouped into different categories, such as sales data by product, department, and region. Tree Map charts are commonly used in business and finance, as well as in information technology and web development to visualize file and folder structures. They are also used in data journalism, where they can be used to display complex data sets in a clear and easily understandable way.
