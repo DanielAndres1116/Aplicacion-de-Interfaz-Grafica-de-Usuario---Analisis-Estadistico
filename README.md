@@ -87,7 +87,8 @@ Choropleth maps are widely used in geography, public health, economics, and poli
 
 The next is a bar-chart that represents the number of cancelled flights by months. Each color of this bar-chart represents a cause for the cancelation. A bar chart is a graphical representation of data that uses bars to show comparisons among categories. One axis of the chart shows the specific categories being compared, and the other axis represents a discrete value. The length or height of the bars indicate the magnitude of the value they represent. Bar charts are used to compare values between different categories and to display data distribution.
 
-![image](https://user-images.githubusercontent.com/43154438/229909589-b9530aec-41e1-4d58-b014-06c2917d1b7b.png)
+![image](https://user-images.githubusercontent.com/43154438/229914503-74363a8e-8f24-43a2-89b2-c7abb36907de.png)
+
 Figure 6: flight cancellation by month according to the cancellation code on a bar-chart
 
 Note: the dataset used for this analysis had only three months registered for the year 2020. This is the reason why for some graphs there are only 3 months available to visualize.
