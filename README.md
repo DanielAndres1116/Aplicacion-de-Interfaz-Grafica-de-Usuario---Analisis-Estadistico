@@ -32,3 +32,13 @@ The first drop-down tab is for selecting the type of report desired, with two op
 5.	The number of flights in different categories of cancellations using a bar chart.
 
 The second report option provided by the interface is the annual delay report for each airline, which includes five line charts that represent the delays by month for each airline. There are different reasons why a flight can be delayed, and four of these will be shown, along with the average delay time for each. The five different types of delays graphically represented in this section of the interface are:
+
+1.	The monthly average delay of the reporting airline for the given year.
+	
+2.	The monthly average weather delay by reporting airline for the given year.
+	
+3.	The monthly average national air system delay according to the reporting airline for the given year.
+	
+4.	The monthly average security delay by reporting airline for the given year.
+	
+5.	The monthly average late aircraft delay by reporting airline for the given year.
